@@ -69,9 +69,4 @@ The project followed three main steps:
 
 ---
 
-## 💼 Target Audience  
-This project is intended for **recruiters**, **data analysts**, and **data science professionals** who wish to assess data cleaning and analytical capabilities in a sports-related context.
 
----
-
-## 📎 Project Structure  
